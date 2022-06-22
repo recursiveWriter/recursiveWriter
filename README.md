@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @recursiveWriter
 - 👀 I’m interested in Writing scripts for Tv, features and algorithms
-- 🌱 I’m currently learning Mit 6.001x - Intro to computation and programming using Python
+- 🌱 After taking Calculus courses on Mitx, I’m currently learning Mit 6.001x - Introduction to Computer Science and Programming in Python
 - 💞️ I’m looking to collaborate on Python project
 - 📫 How to reach me -- here
 
