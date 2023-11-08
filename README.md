@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @recursiveWriter
-- 👀 I’m interested in Writing scripts for Tv, features and algorithms
-- 🌱 After taking Calculus courses on Mitx, I’m currently learning MIT 6.001x - Introduction to Computer Science and Programming in Python
-- 💞️ I’m looking to collaborate on Python project
-- 📫 How to reach me -- here
+- 👋 Hi, I’m @recursiveWriter - my real name is Julien Leslé
+- 👀 I’m interested in writing scripts for Tv, features and algorithms
+- 🌱 I'm currently using Vim and Git for writing prose. 
+- 💞️ I'm looking to collaborate on TV series in English and French BUT I'm very interested in coding and the minimalist work environment.  
+- 📫 How to reach me -- Here ! 
 
 <!---
 recursiveWriter/recursiveWriter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
